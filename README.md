@@ -1,1 +1,18 @@
-# Image Processing Labs and Notebooks (Semester 5)\r\n\r\nExperiments in digital image processing and computer vision using Python/MATLAB.\r\n\r\n## Tech Stack\r\n- Python (numpy, opencv-python, matplotlib, scikit-image)\r\n- MATLAB (where applicable)\r\n- Jupyter Notebook\r\n\r\n## Skills Demonstrated\r\n- Image filtering and enhancement\r\n- Edge detection and segmentation\r\n- Morphology and feature extraction\r\n- Basic computer vision workflows\r\n\r\n## Structure\r\n- src/: Notebooks, scripts, and sample images\r\n
+# Image Processing Labs and Notebooks (Semester 5)
+
+Experiments in digital image processing and computer vision using Python and MATLAB.
+
+---
+
+## 🚀 Tech Stack
+- **Python**: numpy, opencv-python, matplotlib, scikit-image  
+- **MATLAB** (where applicable)  
+- **Jupyter Notebook**
+
+---
+
+## 🧩 Skills Demonstrated
+- **Image filtering** and enhancement  
+- **Edge detection** and segmentation  
+- **Morphology** and feature extraction  
+- **Basic computer vision workflows**  
